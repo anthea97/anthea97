@@ -1,6 +1,6 @@
 - 👋 Hello there! I’m Anthea!
 - 👀 I’m interested in Software Engineering and Data Science!
-- 🌱 I’m currently pursuing my Mater's in Computer Science at The University of Texas, Dallas!
+- 🌱 I’m currently pursuing my Master's in Computer Science at The University of Texas, Dallas!
 - 💞️ I would love to collaborate on projects involving web development or machine learning.
 - 📫 Reach out to me on LinkedIn!
 
