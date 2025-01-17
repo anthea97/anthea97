@@ -1,6 +1,6 @@
 - 👋 Hello there! I’m Anthea!
-- 👀 I’m interested in Software Engineering and Data Science!
-- 🌱 I’m pursuing my Master's in Computer Science at The University of Texas, Dallas!
+- 👀 I’m a Software Engineer at Paycom :)
+- 🌱 I have a Master's in Computer Science from The University of Texas, Dallas.
 - 💞️ I would love to collaborate on projects involving web development, machine learning, and data science.
 - 📫 Reach out to me on LinkedIn!
 
